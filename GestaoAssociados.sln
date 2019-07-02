@@ -1,9 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoAssociados", "GestaoAssociados\GestaoAssociados.csproj", "{5F4D531C-F49E-4B13-BF16-91B25E2D4149}"
+# Blend for Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.GestaoAssociados", "GestaoAssociados\UI.GestaoAssociados.csproj", "{5F4D531C-F49E-4B13-BF16-91B25E2D4149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.GestaoAssociados", "Model.GestaoAssociados\Model.GestaoAssociados.csproj", "{75DB116F-07E9-4F1A-BADA-394538FF2955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model.GestaoAssociados", "Model.GestaoAssociados\Model.GestaoAssociados.csproj", "{75DB116F-07E9-4F1A-BADA-394538FF2955}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +20,11 @@ Global
 		{75DB116F-07E9-4F1A-BADA-394538FF2955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75DB116F-07E9-4F1A-BADA-394538FF2955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75DB116F-07E9-4F1A-BADA-394538FF2955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1573E46-2EA7-496C-A4AE-1C56C9186271}
 	EndGlobalSection
 EndGlobal
