@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 namespace Model.GestaoAssociados
 {
-    public class MD_Assossiado
+    public class MD_Associados
     {
 
         public int idAssociado { get; set; }
