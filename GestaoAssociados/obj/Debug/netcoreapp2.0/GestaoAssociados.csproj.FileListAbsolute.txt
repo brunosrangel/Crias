@@ -1,0 +1,12 @@
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/GestaoAssociados.deps.json
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/GestaoAssociados.runtimeconfig.json
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/GestaoAssociados.runtimeconfig.dev.json
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/GestaoAssociados.dll
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/bin/Debug/netcoreapp2.0/GestaoAssociados.pdb
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.csprojResolveAssemblyReference.cache
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.csproj.CoreCompileInputs.cache
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.AssemblyInfoInputs.cache
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.AssemblyInfo.cs
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.dll
+/Users/Bruno/Projects/GestaoAssociados/GestaoAssociados/obj/Debug/netcoreapp2.0/GestaoAssociados.pdb
