@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Model.GestaoAssociados
+namespace Dal.GestaoAssociados
 {
     public class Class1
     {
